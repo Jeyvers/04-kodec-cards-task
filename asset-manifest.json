@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/05-kodec-users-task/static/css/main.7e4c18e0.css",
+    "main.js": "/05-kodec-users-task/static/js/main.198edf54.js",
+    "index.html": "/05-kodec-users-task/index.html",
+    "main.7e4c18e0.css.map": "/05-kodec-users-task/static/css/main.7e4c18e0.css.map",
+    "main.198edf54.js.map": "/05-kodec-users-task/static/js/main.198edf54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e4c18e0.css",
+    "static/js/main.198edf54.js"
+  ]
+}
